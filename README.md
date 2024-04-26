@@ -1,0 +1,1 @@
+This project is a mockup that demonstrates how one might track the location of Instagram followers. It does not actually access Instagram's API or real follower data. Instead, it allows users to input the usernames of their followers and specify a location for each follower. The project then displays these locations on a map.
